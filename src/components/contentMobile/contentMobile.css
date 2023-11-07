@@ -1,4 +1,4 @@
-.mobile__notes__content__body{
+.mobody{
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -8,7 +8,7 @@
     margin: 1vh 0 1vh 0;
 }
 
-.mobile__notes__content__date__time__details{
+.mobdetails{
     width: 40vw;
     height: auto;
     display: flex;
