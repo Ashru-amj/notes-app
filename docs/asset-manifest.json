@@ -9,7 +9,7 @@
     "main.5fc10572.js.map": "/notes-app/static/js/main.5fc10572.js.map"
   },
   "entrypoints": [
-    "/notes-app/static/css/main.128d1294.css",
-    "/notes-app/static/js/main.5fc10572.js"
+    "notes-app/static/css/main.128d1294.css",
+    "notes-app/static/js/main.5fc10572.js"
   ]
 }
